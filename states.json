@@ -15,18 +15,24 @@
 		"key": "334",
 		"latitude": -18.294071,
 		"longitude": -51.151606,
-		"name": "(GO) Aparecida do Rio Doce/334 - S1"
+		"name": "(GO) Aparecida do Rio Doce/334"
 	},
 		{
 		"key": "578",
 		"latitude": -15.090853,
 		"longitude": -50.631511,
-		"name": "(GO) Araguapaz/578 - S1"
+		"name": "(GO) Araguapaz/578"
 	},
 		{
 		"key": "395",
 		"latitude": -16.356306,
 		"longitude": -49.680424,
-		"name": "(GO) Araçu/395 - S1"
-	}		
+		"name": "(GO) Araçu/395"
+	}
+		{
+		"key": "463",
+		"latitude": -15.24276,
+		"longitude": -51.160206,
+		"name": "(GO) Britânia/463"
+	}				
 ]
