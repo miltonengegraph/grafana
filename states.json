@@ -2,15 +2,33 @@
 	{
 		"key": "431",
 		"latitude": -16.1941,
-		"longitude": -48.7001 ,
+		"longitude": -48.7001,
 		"name": "(GO) Abadiânia/431"
 	},
 		{
 		"key": "06",
-		"latitude": -16.1941,
-		"longitude": -48.7001 ,
+		"latitude": -17.39599,
+		"longitude": -50.3749031,
 		"name": "(GO) Acreúna/06"
 	},
+		{
+		"key": "334",
+		"latitude": -18.294071,
+		"longitude": -51.151606,
+		"name": "(GO) Aparecida do Rio Doce/334 - S1"
+	},
+		{
+		"key": "578",
+		"latitude": -15.090853,
+		"longitude": -50.631511 ,
+		"name": "(GO) Araguapaz/578 - S1"
+	},
+		{
+		"key": "395",
+		"latitude": -16.356306,
+		"longitude": -49.680424,
+		"name": "(GO) Araçu/395 - S1"
+	},	
 	{
 		"key": "AM",
 		"latitude": -4.88,
